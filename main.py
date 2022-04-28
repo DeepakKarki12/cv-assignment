@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # read the image file in a grayscale mode
-img = cv2.imread('r9f.png',0)
+img = cv2.imread('r9.png',0)
 
 # variable declaration
 sum = 0
